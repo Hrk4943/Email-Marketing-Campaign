@@ -37,7 +37,8 @@ This project analyzes email marketing campaign performance using data from Excel
 4. Adjust date filters to view trends for different time periods.
 
 ## Dashboard Preview
-![image](https://github.com/user-attachments/assets/5d551003-7b41-472e-94a3-e8ac6741b1e6)
+![1](https://github.com/user-attachments/assets/c015fe2c-6991-4f6e-bdc4-89051f079848)
+
 ![2](https://github.com/user-attachments/assets/aaaf28e5-b1e6-4b40-84bf-6c03b3ddd725)
 
 
