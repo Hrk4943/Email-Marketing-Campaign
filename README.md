@@ -36,7 +36,10 @@ This project analyzes email marketing campaign performance using data from Excel
 3. Use predefined dashboards and visualizations to analyze campaign performance.
 4. Adjust date filters to view trends for different time periods.
 
+## Dashboard Preview
 ![image](https://github.com/user-attachments/assets/5d551003-7b41-472e-94a3-e8ac6741b1e6)
+![2](https://github.com/user-attachments/assets/aaaf28e5-b1e6-4b40-84bf-6c03b3ddd725)
+
 
 
 
